@@ -1,0 +1,9 @@
+src/MPOWER_CONTROL_PROGRAM.o: ../src/MPOWER_CONTROL_PROGRAM.c \
+ ../include/LSTD_TYPES.h ../include/MPOWER_CONTROL_PRIVATE.h \
+ ../include/MPOWER_CONTROL_INTERFACE.h
+
+../include/LSTD_TYPES.h:
+
+../include/MPOWER_CONTROL_PRIVATE.h:
+
+../include/MPOWER_CONTROL_INTERFACE.h:
